@@ -10,7 +10,7 @@ The X Passowrd Generator is here to bring you back from the brink of digital dis
 - Guaranteed Complexity: Every generated password is guaranteed to include at least one character from all four main sets: Uppercase (A-Z), Lowercase (a-z), Digits (0-9), Symbols (!@#$, etc.)
 - Batch Generation: Supports generating multiple unique passwords in a single run, providing efficiency for bulk security updates.
 
-This Project Builded with Visual Studio 2015.
+This program is compiled with Visual Studio 2015.
 
 # Requirements
 
