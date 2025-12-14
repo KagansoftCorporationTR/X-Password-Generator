@@ -15,4 +15,4 @@ This program is compiled with Visual Studio 2015.
 # Requirements
 
 - Windows 7 SP1+
-- .NET Framework 4.6.1+
+- .NET Framework 4.6.1
